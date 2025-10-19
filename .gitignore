@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# build outputs
+dist/
+build/
+
+# misc
+.DS_Store
+*.log
+*.zip
+*.tar
+*.rar
+*.mp4
+*.exe
+*.dll
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.so
+*.dylib
+"backend/uploads/" 
+"data/synthetic/" 
+"OUTPUSCREENS/" 
