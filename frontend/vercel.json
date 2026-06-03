@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://your-flask-backend.onrender.com/api/:path*"
+      "destination": "https://kyc-flask.onrender.com/api/:path*"
     },
     {
       "source": "/api-compliance/:path*",
-      "destination": "https://your-fastapi-compliance.onrender.com/:path*"
+      "destination": "https://kyc-fastapi-tx1y.onrender.com/:path*"
     }
   ]
 }
